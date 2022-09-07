@@ -1,4 +1,3 @@
-<h1> my website</h1>
 <!doctype html>
 <html lang="en">
   <head>
