@@ -10,7 +10,7 @@
     <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
-<input type="submit">
+<input id="submit" type="submit">
 </form>
   </h1>
     <h1>OR</h1>
@@ -20,7 +20,7 @@ E-mail: <input type="text" name="email"><br>
 Coupon Code: <input type="text" name="name"><br>
 
 
-<input type="submit">
+<input id="submit" type="submit">
 </form>
        
   </h1>
