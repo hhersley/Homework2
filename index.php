@@ -13,7 +13,7 @@ E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
   </div>
-    <h1>OR<h/1>
+    <h1>OR</h1>
       <h1>Check your coupon code below</h1>
   <div id="boxes">
           <form action="handleget.php" method="get">
