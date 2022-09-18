@@ -10,7 +10,7 @@
   <body>
     <h1>GET response</h1>
    Hello <?php echo $_GET["name"]; ?><br>
-Your favorite color is: <?php echo $_GET["favoritecolor"]; ?> and your favorite weather is: <?php echo $_GET["favoriteweather"]; ?>
+Your favorite color is: <?php echo $_GET["color"]; ?> and your favorite weather is: <?php echo $_GET["weather"]; ?>
    
   </body>
 </html>
