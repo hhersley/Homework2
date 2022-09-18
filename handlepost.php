@@ -13,4 +13,6 @@
 Your email address is: <?php echo $_POST["email"]; ?>
    
   </body>
+      <?php require_once('footer.php'); ?>
+
 </html>
