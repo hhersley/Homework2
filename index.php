@@ -23,8 +23,8 @@ E-mail: <input type="text" name="email"><br>
   
           <form action="handleget.php" method="get">
 Name: <input type="text" name="name"><br>
-Favorite Color: <input type="text" name="favorite color"><br>
-Favorite Weather: <input type="text" name="favorite weather"><br>
+Favorite Color: <input type="text" name="favoritecolor"><br>
+Favorite Weather: <input type="text" name="favoriteweather"><br>
 
 <input type="submit">
 </form>
