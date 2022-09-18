@@ -19,12 +19,11 @@ E-mail: <input type="text" name="email"><br>
 </form>
      
     <h1>OR<h/1>
-      <h1>Tell us more about you!</h1>
+      <h1>Check your coupon code below</h1>
   
           <form action="handleget.php" method="get">
-Name: <input type="text" name="name"><br>
-Favorite Color: <input type="text" name="color"><br>
-Favorite Weather: <input type="text" name="weather"><br>
+Coupon Code: <input type="text" name="name"><br>
+
 
 <input type="submit">
 </form>
