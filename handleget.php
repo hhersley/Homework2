@@ -9,8 +9,7 @@
   </head>
   <body>
     <h1>GET response</h1>
-   Hello <?php echo $_GET["name"]; ?><br>
-Your favorite color is: <?php echo $_GET["color"]; ?> and your favorite weather is: <?php echo $_GET["weather"]; ?>
+   Your Coupon Code is <?php echo $_GET["name"]; ?> and it is worth 20% off of your next purchase!<br>
    
   </body>
 </html>
