@@ -1,0 +1,22 @@
+body 
+{
+    color: #000000;
+    background-color:#FF0C00;
+}
+h1
+{
+    
+    text-align:center;
+    color: #FFFFFF;
+    font-size: 500%;
+    font-style:bold;
+
+}
+
+footer
+{
+  float: bottom;
+  text-align:center;
+}
+
+
