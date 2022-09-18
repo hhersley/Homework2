@@ -1,5 +1,7 @@
 <!doctype html>
 <html lang="en">
+      <link rel="stylesheet" href="StyleSheet2.css" />
+
   <body>
     <footer>
       <p> follow us on our social media!
