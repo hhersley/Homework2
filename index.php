@@ -6,22 +6,25 @@
     
     <h1> Find your dream Trip!</h1>
     <h1>Sign up for Rewards</h1>
+  <div id="boxes">
     <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
-     
+  </div>
     <h1>OR<h/1>
       <h1>Check your coupon code below</h1>
-  
+  <div id="boxes">
           <form action="handleget.php" method="get">
 Coupon Code: <input type="text" name="name"><br>
 
 
 <input type="submit">
 </form>
-      
+      </div>  
+    
+    
     <?php require_once('footer.php'); ?>
 
 
