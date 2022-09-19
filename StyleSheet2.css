@@ -43,6 +43,14 @@ footer
   text-align:center;
 }
 
+#img1
+{
+       width: 10%;
+    height: 10%;
+      float: right;
+
+}
+
 #submit
 {
 margin-top:10px;
