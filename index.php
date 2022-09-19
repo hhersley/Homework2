@@ -4,7 +4,8 @@
 
 
     
-    <h1> Find your dream Trip!</h1>
+    <h2> Join the Movie Club!</h2>
+  <p>We offer recommendations for movies and discount codes for local movie theaters!</p>
     <h1>Sign up for Rewards</h1>
   <h1>
     <form action="handlepost.php" method="post">
