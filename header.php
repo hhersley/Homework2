@@ -24,6 +24,22 @@
         <li class="nav-item">
           <a class="nav-link" href="https://www.rottentomatoes.com/">Rotten Tomatoes</a>
         </li>
+        
+        
+        
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            TV Shows
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="https://homework1.hahersley.oucreate.com/page4.html">Listed Shows</a></li>
+            <li><a class="dropdown-item" href="https://homework1.hahersley.oucreate.com/page5.html">Reviews</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="https://www.marvel.com/">Marvel Website</a></li>
+          </ul>
+        </li>
+        
+        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Movie Theaters
