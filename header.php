@@ -37,7 +37,7 @@
         </li>
     
       </ul>
-         <img id="img1" src="https://www.clipartmax.com/png/middle/8-88403_size-movie-icon.png" class="rounded float-end" alt="tiny picture">
+         <img id="img1" src="https://www.nicepng.com/png/detail/356-3565814_png-file-movie-icon-vector-png.png" class="rounded float-end" alt="tiny picture">
 
     </div>
   </div>
