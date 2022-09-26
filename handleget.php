@@ -8,6 +8,11 @@
    
     <img src="https://media0.giphy.com/media/UHTfDj7UYiHlzjTW19/giphy.gif?cid=ecf05e47xwflvl34dc03ttrcn25p6j1eg7lmjj89gj0syiox&rid=giphy.gif&ct=g" class="img-thumbnail" alt="...">
 
+     <?php
+    emptyget();
+       
+    ?>
+    
   </body>
       <?php require_once('footer.php'); ?>
 
