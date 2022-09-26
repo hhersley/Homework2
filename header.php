@@ -46,6 +46,6 @@
     
     
     <?php
-    function hello(){
-      return "This is my function";
+    function hello() {
+     echo "This is my function";
     }
