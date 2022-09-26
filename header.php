@@ -61,7 +61,7 @@ if (empty($email))
     function emptyget() {
 $name = $_GET["name"];
 if (empty($name))
-    echo "You need to enter your name";
+    echo "You need to enter your Coupon code";
     }
 ?>
     
