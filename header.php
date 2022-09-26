@@ -48,11 +48,14 @@
     <?php
     function emptypost() {
 $name = $_POST["name"];
-$email = $_POST["email"];
+
 if (empty($name))
     echo "You need to enter your name
-    ";<br>
-    
+    ";
+      ?>
+        <?php
+    function emptypost2() {
+    $email = $_POST["email"];
 if (empty($email))
     echo "You need to enter an email address";
     }
