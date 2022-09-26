@@ -49,3 +49,4 @@
     function hello() {
      echo "This is my function";
     }
+    ?>
