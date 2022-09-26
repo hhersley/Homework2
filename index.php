@@ -23,6 +23,8 @@ Coupon Code: <input type="text" name="name"><br>
 
 <input id="submit" type="submit">
 </form>
+    
+    echo hello();
        
   </h1>
     
