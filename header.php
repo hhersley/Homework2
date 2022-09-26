@@ -43,3 +43,9 @@
     </div>
   </div>
 </nav>
+    
+    
+    <?php
+    function hello(){
+      return "This is my function";
+    }
