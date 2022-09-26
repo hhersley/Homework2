@@ -24,8 +24,11 @@ Coupon Code: <input type="text" name="name"><br>
 <input id="submit" type="submit">
 </form>
     
+    <?php
     hello();
        
+    ?>
+    
   </h1>
     
     <?php require_once('footer.php'); ?>
