@@ -11,10 +11,7 @@ Your email address is: <?php echo $_POST["email"]; ?><br>
      <?php
     emptypost();
     ?>
-    <?php
-    emptypost2();
-       
-    ?>
+  
   </body>
   
       <?php require_once('footer.php'); ?>
