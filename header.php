@@ -46,6 +46,26 @@
     
     
     <?php
+    function emptypost() {
+$name = $_POST["name"];
+$email = $_POST["email"];
+if (empty($name))
+    echo "You need to enter your name";
+    
+if (empty($email))
+    echo "You need to enter an email address";
+    }
+?>
+      <?php
+    function emptyget() {
+$name = $_GET["name"];
+if (empty($name))
+    echo "You need to enter your name";
+    }
+?>
+    
+    
+    <?php
     function hello() {
      echo "This is my function";
     }
