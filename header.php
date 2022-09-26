@@ -68,6 +68,6 @@ if (empty($name))
     
     <?php
     function hello() {
-     echo "This is my function";
+     echo "Lights, Camera, ACTION!";
     }
     ?>
